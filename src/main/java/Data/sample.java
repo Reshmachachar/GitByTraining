@@ -10,4 +10,12 @@ public class sample {
 		System.out.println("t3");
 		
 	}
+	public void TestingBranch2()
+	{
+		System.out.println("d1");
+		System.out.println("d2");
+		System.out.println("d3");
+		
+	}
+	
 }
