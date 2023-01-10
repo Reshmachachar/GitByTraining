@@ -2,14 +2,10 @@ package Data;
 
 public class sample {
 
-	public void MasterBranch()
+	
+	public void TestingBranch()
 	{
-		System.out.println("in master branch");
-		
-	}
-	public void DevlopBranch()
-	{
-		System.out.println("in Devlop branch");
+		System.out.println("in Testing branch");
 		
 	}
 }
