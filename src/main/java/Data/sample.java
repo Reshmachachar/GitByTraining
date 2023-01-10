@@ -3,9 +3,10 @@ package Data;
 public class sample {
 
 	
-	public void TestingBranch()
+	public void TestingBranch1()
 	{
-		System.out.println("in Testing branch");
+		System.out.println("t1");
+		System.out.println("t2");
 		
 	}
 }
